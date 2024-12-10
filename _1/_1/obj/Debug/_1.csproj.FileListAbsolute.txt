@@ -1,0 +1,7 @@
+C:\Users\Assmaa\OneDrive\Desktop\IEEE\_1\_1\bin\Debug\_1.exe.config
+C:\Users\Assmaa\OneDrive\Desktop\IEEE\_1\_1\bin\Debug\_1.exe
+C:\Users\Assmaa\OneDrive\Desktop\IEEE\_1\_1\bin\Debug\_1.pdb
+C:\Users\Assmaa\OneDrive\Desktop\IEEE\_1\_1\obj\Debug\_1.csproj.AssemblyReference.cache
+C:\Users\Assmaa\OneDrive\Desktop\IEEE\_1\_1\obj\Debug\_1.csproj.CoreCompileInputs.cache
+C:\Users\Assmaa\OneDrive\Desktop\IEEE\_1\_1\obj\Debug\_1.exe
+C:\Users\Assmaa\OneDrive\Desktop\IEEE\_1\_1\obj\Debug\_1.pdb
